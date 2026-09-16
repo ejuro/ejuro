@@ -15,4 +15,4 @@ A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omar
 
 ## 📱 Wallpapers
 
-[Omarchy Glow for mobile](https://github.com/ejuro/omarchy-glow-mobile).
+[Omarchy Neon Glow for mobile](https://github.com/ejuro/omarchy-glow-mobile).
