@@ -8,7 +8,7 @@ A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omar
 
 ## 🧩 Plugins & desktop toys
 
-- [Blow Off Some Steam](https://github.com/ejuro/blow-off-some-steam) — a fun game for when you’re bored or waiting for your agents to finish.
+- [Blow Off Some Steam](https://github.com/ejuro/blow-off-some-steam) — a fun game for when you’re bored, angry or just waiting for your agents to finish.
 - [Omi the Cat](https://github.com/ejuro/omi-the-cat) — a tiny desktop pet that feeds on your spent tokens.
 - [Phosphor CRT](https://github.com/ejuro/phosphor-crt-overlay) — a retro CRT overlay.
 - [OmaMap](https://github.com/ejuro/omamap) — track the countries you’ve visited.
