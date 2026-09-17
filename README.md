@@ -8,6 +8,7 @@ A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omar
 
 ## 🧩 Plugins & desktop toys
 
+- [Theme Favorites](https://github.com/ejuro/omarchy-theme-favorites) — find out which Omarchy themes you actually use most, then export your top five to show off your taste.
 - [Blow Off Some Steam](https://github.com/ejuro/blow-off-some-steam) — a fun game for when you’re bored, angry or just waiting for your agents to finish.
 - [Omi the Cat](https://github.com/ejuro/omi-the-cat) — a tiny desktop pet that feeds on your spent tokens.
 - [Phosphor CRT](https://github.com/ejuro/phosphor-crt-overlay) — a retro CRT overlay.
