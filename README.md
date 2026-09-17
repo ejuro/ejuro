@@ -1,6 +1,6 @@
 # Hey, I’m Erik 👋
 
-A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omarchy rabbit hole and I’m having far too much fun. I make themes and mostly silly plugins for my own Omarchy desktop, then share them in case someone else enjoys them too.
+A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omarchy rabbit hole ever since the day I first installed it (438 days ago) and I’m having far too much fun. I make themes and mostly silly plugins for my own Omarchy desktop, then share them in case someone else enjoys them too.
 
 ## 🎨 Themes
 
