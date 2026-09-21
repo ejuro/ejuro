@@ -17,30 +17,31 @@ Click a preview to explore the theme.
 
 <table>
   <tr>
+    <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-thunderstruck-theme"><img src="https://raw.githubusercontent.com/ejuro/omarchy-thunderstruck-theme/main/preview.png" width="360" alt="Thunderstruck theme wordmark preview"><br><strong>Thunderstruck</strong></a></td>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-cool-dawn-theme"><img src="assets/themes/cool-dawn.jpg" width="360" alt="Cool Dawn theme preview"><br><strong>Cool Dawn</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-misty-sunset-theme"><img src="assets/themes/misty-sunset.jpg" width="360" alt="Misty Sunset theme preview"><br><strong>Misty Sunset</strong></a></td>
-  </tr>
-  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-blue-hour-theme"><img src="assets/themes/blue-hour.jpg" width="360" alt="Blue Hour theme preview"><br><strong>Blue Hour</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-neon-glow-theme"><img src="assets/themes/neon-glow.jpg" width="360" alt="Neon Glow theme preview"><br><strong>Neon Glow</strong></a></td>
-  </tr>
-  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-pine-ivory-mosaic-theme"><img src="assets/themes/pine-ivory-mosaic.jpg" width="360" alt="Pine Ivory Mosaic theme preview"><br><strong>Pine Ivory Mosaic</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-black-gold-mosaic-theme"><img src="assets/themes/black-gold-mosaic.jpg" width="360" alt="Black Gold Mosaic theme preview"><br><strong>Black Gold Mosaic</strong></a></td>
-  </tr>
-  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-petrol-champagne-mosaic-theme"><img src="assets/themes/petrol-champagne-mosaic.jpg" width="360" alt="Petrol Champagne Mosaic theme preview"><br><strong>Petrol Champagne Mosaic</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-charcoal-copper-mosaic-theme"><img src="assets/themes/charcoal-copper-mosaic.jpg" width="360" alt="Charcoal Copper Mosaic theme preview"><br><strong>Charcoal Copper Mosaic</strong></a></td>
-  </tr>
-  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-blue-mosaic-theme"><img src="assets/themes/blue-mosaic.jpg" width="360" alt="Blue Mosaic theme preview"><br><strong>Blue Mosaic</strong></a></td>
+  </tr>
+  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-green-mosaic-theme"><img src="assets/themes/green-mosaic.jpg" width="360" alt="Green Mosaic theme preview"><br><strong>Green Mosaic</strong></a></td>
-  </tr>
-  <tr>
     <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-midnight-slate-dark-mosaic-theme"><img src="assets/themes/midnight-slate-dark-mosaic.jpg" width="360" alt="Midnight Slate Dark Mosaic theme preview"><br><strong>Midnight Slate Dark Mosaic</strong></a></td>
-    <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-black-white-mosaic-theme"><img src="assets/themes/black-white-mosaic.jpg" width="360" alt="Black White Mosaic theme preview"><br><strong>Black White Mosaic</strong></a></td>
   </tr>
   <tr>
+    <td align="center" width="50%"><a href="https://github.com/ejuro/omarchy-black-white-mosaic-theme"><img src="assets/themes/black-white-mosaic.jpg" width="360" alt="Black White Mosaic theme preview"><br><strong>Black White Mosaic</strong></a></td>
     <td align="center" width="50%"><a href="https://github.com/ejuro/oligarchy-theme"><img src="assets/themes/oligarchy.jpg" width="360" alt="Oligarchy theme preview"><br><strong>Oligarchy</strong></a></td>
   </tr>
 </table>
