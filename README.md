@@ -40,4 +40,6 @@ Click a preview to explore the theme.
 
 ## 📱 Wallpapers
 
-[Omarchy Neon Glow for mobile](https://github.com/ejuro/omarchy-glow-mobile).
+<a href="https://github.com/ejuro/omarchy-glow-mobile"><img src="assets/wallpapers/omarchy-glow-mobile.jpg" width="720" alt="Omarchy Neon Glow mobile wallpapers: the wordmark and logo in ten colors on iPhones"></a>
+
+[Omarchy Neon Glow for mobile](https://github.com/ejuro/omarchy-glow-mobile): the glowing Omarchy wordmark and logo in ten colors.
